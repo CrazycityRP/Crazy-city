@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "OTMxMTI1MDY5MDM0NDIyMjcy.Yd_3yw.zevAeod_JdhQUln3dIHw8xE9GG8",
+    "SERVER_URL": "lt2025.litecloud.fr:30181",
+    "SERVER_LOGO": "https://cdn.discordapp.com/avatars/398440911677292555/c6e0274834bdc7a8c1def1b74d2c97af.png?size=256",
+    "SERVER_NAME": "Crazy City RP",
+    "PREFIX": "+",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"913136908706652212",
+        "MEMES":"913136908706652212",
+        "ANIMALS":"913136908706652212"
+    }
+    
+}
